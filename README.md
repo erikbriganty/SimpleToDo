@@ -24,15 +24,15 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+Here's a walkthrough of the app:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+This is my first time building an application using Java and Android Studio. I'm still fairly new with the language and there is a bit of a learning curve, but I have learned a lot while completing this project. I hope to roll out updates as I get more comfortable and knowledgeable with Java and Android development.
 
 ## License
 
